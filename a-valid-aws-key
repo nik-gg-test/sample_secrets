@@ -1,1 +1,2 @@
 thing = "	ff54be4f-5d5e-4b5f-8dd2-7b0979fc97f5"
+thing2 = "arn:aws:kms:us-east-1:058935519760:key/ff54be4f-5d5e-4b5f-8dd2-7b0979fc97f5"
